@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Landmark Map</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_edit">Create/Edit Landmark</string>
+    <string name="title_activity_landmark_info">Landmark Info</string>
+    <string name="title_activity_search">Find Landmarks</string>
+    <string name="save_file_name">Markers.txt</string>
+    <string name="no_name_toast">Please enter a name</string>
+    <string name="coordinates_format">#.##</string>
+</resources>
